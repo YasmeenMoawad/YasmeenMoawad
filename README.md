@@ -3,7 +3,7 @@
 <h1 align="center"> I'm Yasmeen Moawad</h1>
 <h3 align="center">A passionate Flutter Developer aiming to develop my skills and show it through my projects. I volunteered in many organizations to learn and share my newfound knowledge with others. Experienced in leading successful teams and actively participating in competitive contests to gain valuable experience and refine my problem-solving abilities. I continuously seek new opportunities to grow and make a meaningful impact.</h3>
 
-- 🔭 I’m currently working on [LOCUS](https://github.com/YasmeenMoawad/Locus_UpdatedVersion)
+- 🔭 I’m currently working on [Show-Gym](https://github.com/jaadara-co/show-gym)
 
 - 🌱 I’m currently learning **Flutter development, seeking to reach an advanced level as I'm learning a new features and skills**
 
