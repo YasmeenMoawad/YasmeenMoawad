@@ -1,17 +1,17 @@
-## Hi there 👋
+## Hi there
 
 <h1 align="center"> I'm Yasmeen Moawad</h1>
-<h3 align="center">A passionate Flutter Developer aiming to develop my skills and show it through my projects. I volunteered in many organizations to learn and share my newfound knowledge with others. Experienced in leading successful teams and actively participating in competitive contests to gain valuable experience and refine my problem-solving abilities. I continuously seek new opportunities to grow and make a meaningful impact.</h3>
+<h3 align="center">A passionate Flutter Developer aiming to develop my skills and show it through my projects. I volunteered in many organizations to learn and share my newfound knowledge with others. Experienced in leading successful teams and actively participating in competitive contests to gain valuable experience and refine my problem-solving abilities. I seek new opportunities to grow and make a meaningful impact.</h3>
 
-- 🔭 I’m currently working on [Show-Gym](https://github.com/jaadara-co/show-gym)
+- Here's my portfolio [https://yasmeen-moawad-portfolio.vercel.app/](https://yasmeen-moawad-portfolio.vercel.app/)
 
-- 🌱 I’m currently learning **Flutter development, seeking to reach an advanced level as I'm learning a new features and skills**
+- I’m currently learning **Flutter development, seeking to reach an advanced level as I'm learning a new features and skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YasmeenMoawad/](https://github.com/YasmeenMoawad/)
+- All of my projects are available at [https://github.com/YasmeenMoawad/](https://github.com/YasmeenMoawad/), some of which are private according to the owner (company manager) policy.
 
-- 📫 How to reach me **yasmeenmwd@gmail.com**
+- How to reach me **yasmeenmwd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/10RrEQwGEkq-WT-ePwLJHQBRHC_taA281?usp=sharing](https://drive.google.com/drive/folders/10RrEQwGEkq-WT-ePwLJHQBRHC_taA281?usp=sharing)
+- Know about my experiences [https://drive.google.com/drive/folders/10RrEQwGEkq-WT-ePwLJHQBRHC_taA281?usp=sharing](https://drive.google.com/drive/folders/10RrEQwGEkq-WT-ePwLJHQBRHC_taA281?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
